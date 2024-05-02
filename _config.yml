@@ -126,7 +126,7 @@ pwa:
 paginate: 10
 
 # The base URL of your site
-baseurl: "/Eshelby-docs"
+baseurl: "Eshelby-docs"
 
 # ------------ The following options are not recommended to be modified ------------------
 
