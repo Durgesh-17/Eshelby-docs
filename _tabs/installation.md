@@ -19,4 +19,5 @@ Here's how you can install the app.
 
 ## Installation link
 
-- [Eshelby Solver](https://eshelby-storage-1.s3.amazonaws.com/mysetup.exe)
+- [Windows - Eshelby Solver](https://eshelby-storage-1.s3.amazonaws.com/mysetup.exe)
+- [Linux - Eshelby Solver](https://eshelby-storage-1.s3.amazonaws.com/Eshelby+Solver+Linux.exe)
